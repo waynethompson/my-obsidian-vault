@@ -39,6 +39,7 @@ This is based on my (Wayne) skill set as a principal software engineer with an M
 - Social media influencer pages
 - Dive forum
 - Thailand general forum for visa/retirement/living questions
+- Related project note: [[Projects/Community Intelligence Scraper - Project Details]]
 - Jobs platform
 - Bots commenting on Reddit and Facebook
 
